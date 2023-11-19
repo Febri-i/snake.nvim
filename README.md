@@ -46,3 +46,6 @@ require("snake").setup(
     }
 )
 ```
+## Controls
+
+use <kbd>h</kbd> <kbd>j</kbd> <kbd>k</kbd> <kbd>l</kbd> to turn around and <kbd>p</kbd> to pause!
